@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm fffzlfk</h1>
-<h3 align="center">An undergraduate student in XDU CS</h3>
 
 - 📝 I regularly write articles on [https://fffzlfk.netlify.app/](https://fffzlfk.netlify.app/)
-
-- 💬 Ask me about **Golang**
 
 - 📫 How to reach me **fffzlfk@qq.com**
 
