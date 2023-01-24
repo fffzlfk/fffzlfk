@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,5 +26,5 @@ Linux                    1 hr 39 mins        ███████████�
 ```
 
 
- Last Updated on 24/01/2023 00:50:35 UTC
+ Last Updated on 24/01/2023 06:12:26 UTC
 <!--END_SECTION:waka-->
