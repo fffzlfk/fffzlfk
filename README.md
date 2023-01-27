@@ -11,18 +11,16 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     45 mins             ████████████████████████░   98.43% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             ██████████████████████░░░   88.54% 
-Neovim                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/01/2023 18:12:07 UTC
+ Last Updated on 27/01/2023 00:51:17 UTC
 <!--END_SECTION:waka-->
