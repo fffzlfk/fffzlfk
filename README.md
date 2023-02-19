@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,16 +11,21 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 50 mins        ████████████████████░░░░░   82.59 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 53 mins        █████████████████████░░░░   84.88 % 
+Neovim                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 18/02/2023 18:10:46 UTC
+ Last Updated on 19/02/2023 00:51:03 UTC
 <!--END_SECTION:waka-->
