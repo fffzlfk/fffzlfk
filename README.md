@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,8 +11,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      0 secs              ██████████████████████░░░   86.67 % 
-C                        0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Docker                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Neovim                   0 secs              █████████████████████████   100.00 % 
@@ -22,5 +21,5 @@ WSL                      0 secs              ███████████�
 ```
 
 
- Last Updated on 21/01/2024 18:10:41 UTC
+ Last Updated on 22/01/2024 00:43:50 UTC
 <!--END_SECTION:waka-->
