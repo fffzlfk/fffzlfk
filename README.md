@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,5 +24,5 @@ Linux                    34 mins             ███████████�
 ```
 
 
- Last Updated on 28/05/2024 06:13:08 UTC
+ Last Updated on 28/05/2024 12:17:10 UTC
 <!--END_SECTION:waka-->
