@@ -11,17 +11,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 mins              ███████████████████░░░░░░   74.83 % 
-Bash                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/06/2024 18:12:26 UTC
+ Last Updated on 07/06/2024 00:44:13 UTC
 <!--END_SECTION:waka-->
