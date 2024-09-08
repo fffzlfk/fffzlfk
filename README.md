@@ -1,8 +1,6 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -26,5 +24,5 @@ Linux                    4 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 08/09/2024 12:17:54 UTC
+ Last Updated on 08/09/2024 18:13:46 UTC
 <!--END_SECTION:waka-->
