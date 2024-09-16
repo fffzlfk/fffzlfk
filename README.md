@@ -11,17 +11,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 38 mins       ███████████████████████░░   91.91 % 
-TeX                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/09/2024 18:14:02 UTC
+ Last Updated on 16/09/2024 00:54:10 UTC
 <!--END_SECTION:waka-->
