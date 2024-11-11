@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,5 +25,5 @@ WSL                      6 hrs 12 mins       ███████████�
 ```
 
 
- Last Updated on 11/11/2024 12:21:16 UTC
+ Last Updated on 11/11/2024 18:14:23 UTC
 <!--END_SECTION:waka-->
