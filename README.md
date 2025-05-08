@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,15 +11,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      25 mins             █████████████████████░░░░   84.49 % 
+BibTeX                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+OpenEdge ABL             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2025 18:18:08 UTC
+ Last Updated on 08/05/2025 01:01:58 UTC
 <!--END_SECTION:waka-->
