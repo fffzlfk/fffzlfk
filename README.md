@@ -11,17 +11,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      0 secs              ███████████████████████░░   92.74 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2025 18:20:22 UTC
+ Last Updated on 05/08/2025 01:11:18 UTC
 <!--END_SECTION:waka-->
