@@ -1,7 +1,7 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -11,19 +11,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   31 mins             ████████████░░░░░░░░░░░░░   48.04 % 
-Elixir                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-SQL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Docker                   31 mins             █████████░░░░░░░░░░░░░░░░   37.56 % 
+Diff                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Elixir                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+SQL                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/03/2026 18:30:38 UTC
+ Last Updated on 30/03/2026 01:49:21 UTC
 <!--END_SECTION:waka-->
