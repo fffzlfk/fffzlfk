@@ -1,6 +1,8 @@
 # Hi 👋, I'm fffzlfk
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -19,5 +21,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/07/2026 19:14:12 UTC
+ Last Updated on 25/07/2026 01:56:39 UTC
 <!--END_SECTION:waka-->
